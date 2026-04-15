@@ -22,7 +22,7 @@ local Window = Xuilan:CreateWindow({
 ## Add Key System
 ```luau
 Window:AddKeySystem({
-    Key = "JeffreyEinstein",
+    Key = "1234",
     TextColor = "255,255,255",
     BackgroundImage = "ASSET_ID",
     BackgroundImageTransparency = 0.85,
